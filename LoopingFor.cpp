@@ -2,5 +2,14 @@
 using namespace std;
 
 int main(){
+    //Perulangan dengan FOR
+    cout << "PERULANGAN FOR" << endl;
+
+    //Perulangan dengan FOR Naik
+    for (int i = 0; i < 5; i++) {
+        cout << "Nilai i : " << i << " Teknologi Informasi UMY" << endl;
+    }
+    cout << endl;
+
 
 }
